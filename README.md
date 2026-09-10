@@ -1,2 +1,2 @@
 # calculo-desconto-juros
-Construa uma aplicação que calcula juros e descontos
+Construção em Portugol de uma aplicação que calcula juros e descontos.
